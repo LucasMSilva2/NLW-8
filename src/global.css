@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body{
+  @apply bg-[#09090A] text-zinc-100;
+}
+
 
 /*O tailwind pode ser usado dessa forma também, pelo meio de classes no arquivo css*/
 /*.button {
